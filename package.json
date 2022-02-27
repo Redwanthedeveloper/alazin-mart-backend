@@ -15,7 +15,7 @@
     "data:import": "node backend/seeder",
     "data:destroy": "node backend/seeder -d"
   },
-  "author": "sagar hossain",
+  "author": "Redwanul Haque",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
